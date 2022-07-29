@@ -1,0 +1,6 @@
+aws_access_key = "s3 access key id"
+aws_secret_key = "s3 secret access key"
+aws_s3_bucket  = "data-transfer"
+project-id     = "test-project-334532"
+keyfile        = "E:\\key.json"
+aws-object     = "sample.txt"
